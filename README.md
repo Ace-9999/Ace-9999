@@ -70,6 +70,8 @@ I'm a computer science undergraduate interested in **security, useful software, 
 <p align="center">
   <a href="https://github.com/Ace-9999/HUB">
     <img src="https://raw.githubusercontent.com/Ace-9999/HUB/main/docs/screenshots/today.png" width="220" alt="HUB Today screen with a daily overview" />
+    <img src="https://raw.githubusercontent.com/Ace-9999/HUB/main/docs/screenshots/college.png" width="220" alt="HUB college dashboard" />
+    <img src="https://raw.githubusercontent.com/Ace-9999/HUB/main/docs/screenshots/workout.png" width="220" alt="HUB workout tracking screen" />
   </a>
 </p>
 <p align="center"><sub>College, training, and focus—brought together in one app.</sub></p>
