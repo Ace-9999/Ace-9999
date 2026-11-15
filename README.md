@@ -7,6 +7,7 @@
 Building tools I want to use. Exploring how systems work—and how they break.
 
 <a href="https://github.com/Ace-9999"><img src="https://img.shields.io/badge/GitHub-Ace--9999-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Ace-9999" /></a>
+<a href="https://anirudh-portfolio-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_site-7C3AED?style=for-the-badge" alt="Visit Anirudh's portfolio" /></a>
 <a href="https://www.linkedin.com/in/anirudh-reddyb"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
 <a href="mailto:anirudh.reddy6002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anirudh" /></a>
 
@@ -62,16 +63,25 @@ I'm a computer science undergraduate interested in **security, useful software, 
 </tr>
 </table>
 
-### 📸 A look inside HUB
+### 📸 A look inside my projects
+
+#### HUB
 
 <p align="center">
   <a href="https://github.com/Ace-9999/HUB">
     <img src="https://raw.githubusercontent.com/Ace-9999/HUB/main/docs/screenshots/today.png" width="220" alt="HUB Today screen with a daily overview" />
-    <img src="https://raw.githubusercontent.com/Ace-9999/HUB/main/docs/screenshots/college.png" width="220" alt="HUB college dashboard" />
-    <img src="https://raw.githubusercontent.com/Ace-9999/HUB/main/docs/screenshots/workout.png" width="220" alt="HUB workout tracking screen" />
   </a>
 </p>
 <p align="center"><sub>College, training, and focus—brought together in one app.</sub></p>
+
+#### ReelShuffle
+
+<p align="center">
+  <a href="https://github.com/Ace-9999/reelshuffle">
+    <img src="https://raw.githubusercontent.com/Ace-9999/reelshuffle/main/docs/screenshot.png" width="720" alt="ReelShuffle browser extension screenshot" />
+  </a>
+</p>
+<p align="center"><sub>Rediscover saved Instagram reels in a shuffled, full-screen feed.</sub></p>
 
 ### 🔬 Research & ongoing work
 
@@ -118,6 +128,6 @@ I'm a computer science undergraduate interested in **security, useful software, 
 
 **Interested in security, developer tools, or practical software? Let's connect.**
 
-[LinkedIn](https://www.linkedin.com/in/anirudh-reddyb) · [Email](mailto:anirudh.reddy6002@gmail.com) · [Browse my repositories](https://github.com/Ace-9999?tab=repositories)
+[Portfolio](https://anirudh-portfolio-beta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anirudh-reddyb) · [Email](mailto:anirudh.reddy6002@gmail.com) · [Browse my repositories](https://github.com/Ace-9999?tab=repositories)
 
 </div>
